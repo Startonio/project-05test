@@ -1,11 +1,11 @@
 {
-  "name": "project-05",
+  "name": "project-05test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-05/",
+    "build": "vite build --base=/project-05test/",
     "preview": "vite preview"
   },
   "devDependencies": {
